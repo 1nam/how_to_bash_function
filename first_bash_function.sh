@@ -2,7 +2,7 @@
 # zeus/1nam
 # be in the same folder/directory as your script.
 # right click in folder/directory use the right click menu open terminal.
-# keep same script name and do as follows.
+# change script name to test.sh and do as follows.
 # make script executable.
 # chmod +x test.sh
 # run script in terminal.
